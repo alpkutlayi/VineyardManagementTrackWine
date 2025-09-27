@@ -1,0 +1,259 @@
+{
+  "containers": [
+    {
+      "id": 1,
+      "name": "Mondavi Reserve - Napa Valley Facility",
+      "type": "Fermentation Tank",
+      "capacity": 5000,
+      "currentVolume": 4200,
+      "grapeVariety": "Chardonnay",
+      "harvestDate": "2024-09-15",
+      "status": "Fermenting",
+      "location": "Robert Mondavi Winery",
+      "temperature": 18.5,
+      "ph": 3.2,
+      "coordinates": {
+        "latitude": 38.4161,
+        "longitude": -122.3681
+      }
+    },
+    {
+      "id": 2,
+      "name": "Opus One Cellar - Oakville Winery",
+      "type": "Storage Tank",
+      "capacity": 8000,
+      "currentVolume": 7500,
+      "grapeVariety": "Cabernet Sauvignon",
+      "harvestDate": "2024-08-28",
+      "status": "Aging",
+      "location": "Opus One Joint Venture",
+      "temperature": 15.0,
+      "ph": 3.4,
+      "coordinates": {
+        "latitude": 38.4294,
+        "longitude": -122.3869
+      }
+    },
+    {
+      "id": 3,
+      "name": "Screaming Eagle Barrel - Sonoma Coast",
+      "type": "Oak Barrel",
+      "capacity": 225,
+      "currentVolume": 220,
+      "grapeVariety": "Pinot Noir",
+      "harvestDate": "2024-09-10",
+      "status": "Aging",
+      "location": "Screaming Eagle Premium Wines",
+      "temperature": 14.5,
+      "ph": 3.1,
+      "coordinates": {
+        "latitude": 38.5816,
+        "longitude": -123.0681
+      }
+    },
+    {
+      "id": 4,
+      "name": "Caymus Vineyards Tank - Rutherford",
+      "type": "Fermentation Tank",
+      "capacity": 6000,
+      "currentVolume": 0,
+      "grapeVariety": null,
+      "harvestDate": null,
+      "status": "Empty",
+      "location": "Caymus Vineyards Estate",
+      "temperature": 16.0,
+      "ph": null,
+      "coordinates": {
+        "latitude": 38.4583,
+        "longitude": -122.4169
+      }
+    },
+    {
+      "id": 5,
+      "name": "Stag's Leap Clarifier - Stags Leap District",
+      "type": "Clarification Tank",
+      "capacity": 4000,
+      "currentVolume": 3800,
+      "grapeVariety": "Merlot",
+      "harvestDate": "2024-09-05",
+      "status": "Clarifying",
+      "location": "Stag's Leap Wine Cellars",
+      "temperature": 12.0,
+      "ph": 3.3,
+      "coordinates": {
+        "latitude": 38.4102,
+        "longitude": -122.3086
+      }
+    },
+    {
+      "id": 6,
+      "name": "Silver Oak Cellars - Alexander Valley",
+      "type": "Oak Barrel",
+      "capacity": 300,
+      "currentVolume": 295,
+      "grapeVariety": "Cabernet Sauvignon",
+      "harvestDate": "2024-09-12",
+      "status": "Aging",
+      "location": "Silver Oak Cellars",
+      "temperature": 13.8,
+      "ph": 3.5,
+      "coordinates": {
+        "latitude": 38.6197,
+        "longitude": -122.8681
+      }
+    },
+    {
+      "id": 7,
+      "name": "Dom Pérignon - Carneros Estate",
+      "type": "Fermentation Tank",
+      "capacity": 3500,
+      "currentVolume": 3200,
+      "grapeVariety": "Chardonnay",
+      "harvestDate": "2024-09-08",
+      "status": "Fermenting",
+      "location": "Domaine Carneros",
+      "temperature": 17.2,
+      "ph": 3.0,
+      "coordinates": {
+        "latitude": 38.2469,
+        "longitude": -122.4567
+      }
+    },
+    {
+      "id": 8,
+      "name": "Kendall-Jackson Vintner's Reserve",
+      "type": "Storage Tank",
+      "capacity": 7500,
+      "currentVolume": 6800,
+      "grapeVariety": "Chardonnay",
+      "harvestDate": "2024-08-25",
+      "status": "Aging",
+      "location": "Kendall-Jackson Wine Estate",
+      "temperature": 14.2,
+      "ph": 3.1,
+      "coordinates": {
+        "latitude": 38.8197,
+        "longitude": -123.0281
+      }
+    },
+    {
+      "id": 9,
+      "name": "Jordan Vineyard - Russian River",
+      "type": "Oak Barrel",
+      "capacity": 225,
+      "currentVolume": 215,
+      "grapeVariety": "Pinot Noir",
+      "harvestDate": "2024-09-18",
+      "status": "Aging",
+      "location": "Jordan Vineyard & Winery",
+      "temperature": 15.1,
+      "ph": 3.2,
+      "coordinates": {
+        "latitude": 38.7369,
+        "longitude": -123.1231
+      }
+    },
+    {
+      "id": 10,
+      "name": "Chateau Montelena - Calistoga",
+      "type": "Fermentation Tank",
+      "capacity": 4500,
+      "currentVolume": 4100,
+      "grapeVariety": "Chardonnay",
+      "harvestDate": "2024-09-14",
+      "status": "Fermenting",
+      "location": "Chateau Montelena Winery",
+      "temperature": 18.8,
+      "ph": 3.0,
+      "coordinates": {
+        "latitude": 38.5769,
+        "longitude": -122.5831
+      }
+    },
+    {
+      "id": 11,
+      "name": "Beringer Private Reserve - St. Helena",
+      "type": "Storage Tank",
+      "capacity": 9000,
+      "currentVolume": 8200,
+      "grapeVariety": "Cabernet Sauvignon",
+      "harvestDate": "2024-08-30",
+      "status": "Aging",
+      "location": "Beringer Wine Estates",
+      "temperature": 15.5,
+      "ph": 3.4,
+      "coordinates": {
+        "latitude": 38.5056,
+        "longitude": -122.4694
+      }
+    },
+    {
+      "id": 12,
+      "name": "Schramsberg Sparkling - Diamond Mountain",
+      "type": "Clarification Tank",
+      "capacity": 2800,
+      "currentVolume": 2650,
+      "grapeVariety": "Pinot Noir",
+      "harvestDate": "2024-09-06",
+      "status": "Clarifying",
+      "location": "Schramsberg Vineyards",
+      "temperature": 11.5,
+      "ph": 2.9,
+      "coordinates": {
+        "latitude": 38.5581,
+        "longitude": -122.5394
+      }
+    },
+    {
+      "id": 13,
+      "name": "Inglenook - Rubicon Estate",
+      "type": "Oak Barrel",
+      "capacity": 500,
+      "currentVolume": 480,
+      "grapeVariety": "Cabernet Sauvignon",
+      "harvestDate": "2024-09-03",
+      "status": "Aging",
+      "location": "Inglenook Winery",
+      "temperature": 14.8,
+      "ph": 3.6,
+      "coordinates": {
+        "latitude": 38.4444,
+        "longitude": -122.4056
+      }
+    },
+    {
+      "id": 14,
+      "name": "Harlan Estate - Oakville Hills",
+      "type": "Fermentation Tank",
+      "capacity": 3200,
+      "currentVolume": 0,
+      "grapeVariety": null,
+      "harvestDate": null,
+      "status": "Empty",
+      "location": "Harlan Estate Vineyard",
+      "temperature": 16.8,
+      "ph": null,
+      "coordinates": {
+        "latitude": 38.4331,
+        "longitude": -122.3894
+      }
+    },
+    {
+      "id": 15,
+      "name": "Kosta Browne Pinot - Anderson Valley",
+      "type": "Storage Tank",
+      "capacity": 2500,
+      "currentVolume": 2300,
+      "grapeVariety": "Pinot Noir",
+      "harvestDate": "2024-09-20",
+      "status": "Aging",
+      "location": "Kosta Browne Winery",
+      "temperature": 13.2,
+      "ph": 3.1,
+      "coordinates": {
+        "latitude": 39.1197,
+        "longitude": -123.3531
+      }
+    }
+  ]
+}

@@ -43,7 +43,7 @@ struct WebViewController: UIViewControllerRepresentable {
         }
         
         func webViewDidStartLoad() {
-            parent.isLoading = true
+            parent.isLoading = false
         }
         
         func webViewDidFinishLoad() {
